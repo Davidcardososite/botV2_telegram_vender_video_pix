@@ -1,4 +1,4 @@
-![Logo](images/bot.png)
+![Logo](imagens/bot.png)
 
 <div align="center">
   
