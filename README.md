@@ -187,4 +187,3 @@ Pode reassistir quando quiser → Acessa "Meus Vídeos"
 - [Mercado Pago developers](https://www.mercadopago.com.br/developers/)
 
 
-# botV2_telegram_vender_video_pix
