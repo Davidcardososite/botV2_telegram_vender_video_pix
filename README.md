@@ -70,6 +70,10 @@ sudo apt install ffmpeg
 ```bash
 brew install ffmpeg
 ```
+**Termux:**
+```bash
+pkg install ffmpeg
+```
 
 **Windows:**
 - Baixe do [site oficial do FFmpeg](https://ffmpeg.org/download.html)
